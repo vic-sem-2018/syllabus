@@ -1,17 +1,17 @@
 #  English 111: Victorian Novel Research Seminar
 - - -
-semester: Spring 2018
-class meeting time: T 1-5 (occasionally ending at 4:30)
-outline finalizing time: T 11-11:30
-location: LPAC 201
-instructor: Rachel Sagner Buurma
-email: rbuurma1@swarthmore.edu
-office: LPAC 302 (English Department) + Parrish W201 (Aydelotte Foundation)
-office hours: W 1-3  in Parrish W201 and by appointment
-seminar outline meetings: T 10:30-11:30
++ semester: Spring 2018
++ class meeting time: T 1-5 (occasionally ending at 4:30)
++ outline finalizing time: T 11-11:30
++ location: LPAC 201
++ instructor: Rachel Sagner Buurma
++ email: rbuurma1@swarthmore.edu
++ office: LPAC 302 (English Department) + Parrish W201 (Aydelotte Foundation)
++ office hours: W 1-3  in Parrish W201 and by appointment
++ seminar outline meetings: T 10:30-11:30
 - - -
 
-Replacing “How something is made, with a view to finding out what it is”
+> Replacing “How something is made, with a view to finding out what it is”
 with “How something is made, with a view to making it again” – the
 Essence with the Preparation – is linked to an option that’s completely
 antiscientific: in reality, the starting point of the Fantasy [of the
@@ -54,9 +54,7 @@ range of databases and digital tools; how to think about citation
 practices as substantive and central to our work as scholars of
 literature. It will asks to examine your own implicit and explicit
 research practices and habits, and (in some cases) to experiment with
-modifying them or developing new ones. This class will collaborate with
-Nabil Kashyap, McCabe’s Librarian for Digital Initiatives and
-Scholarship, as we learn to incorporate various computational elements
+modifying them or developing new ones. We will learn to incorporate various computational elements
 into our work, from the basics of plain-text authoring, citation
 management, and keeping an open research notebook to using digital tools
 to help us analyze individual novels and groups of novels.
@@ -70,20 +68,18 @@ conservatives;
 
 + Anthony Trollope, *The Warden*
 + Anthony Trollope, *Barchester Towers*
-+ what is a novel? what do we already know about novels?
-+ workshop: close reading the novel
++ workshop: close reading the novel; what is a novel?
 + syllabus review
 + canonicity and representativeness: why THESE novels?
 [T.S. Eliot Victorian Literature
-syllabus](http://theotherdh.com/2014/12/15/Eliot-Modern-English-Lit-
-First-Year/),
+syllabus](http://theotherdh.com/2014/12/15/Eliot-Modern-English-Lit-First-Year/)
 [Leah Price Victorian Novel
 syllabus](http://isites.harvard.edu/icb/icb.do?keyword=k105983&pageid=
 icb.page689455), [The Open Syllabus
 Project](http://explorer.opensyllabusproject.org/),
 [Metacanon](http://metacanon.org/)
 + discussion: planning our class archiving practices see [the 2016
-seminar’s archive](vic-sem-2016.github.io)
+seminar’s archive](vic-sem-2016.github.io); discuss Reclaim and other possiblities
 + in class workshop: 4-4:30 pm, introduction to concepts of plain-text
 authoring
 
@@ -98,29 +94,21 @@ and newspapers
 + Fredric Jameson, beginning of chapter 3 from *The Political Unconscious*
 + optional: Fredric Jameson, “The Realist Floor-plan”
 + Bruno Latour, "Circulating Reference"
-+ complete before class: [Dennis Tenen and Grant Wythoff’s plain-text
-authoring
-tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main
-.md)
++ complete before class: [Dennis Tenen and Grant Wythoff’s plain-text authoring
+tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 + create a [Github](https://github.com/) account
 + in class workshop: close reading criticism
-+ in class workshop: concepts of version control (git, Github)
-+ in class workshop: data viz discussion with PJ: visualizing the
-Barsetshire Series 3:45 PJ
++ in class workshop: concepts of version control (git, Github) and Prose.io
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
-
-#### February ??: optional but recommended plain-text authoring open lab, including Command Line Boot Camp,
-McCabe Computer Classroom, 1-4 pm
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### February 6: canonical realisms 2
 some topics: serials and series (what happens when we try to imagine all
-six Barsetshire novels as part of a single world?); roman fleuve;
-religion and the clergy; marriage; travel
+six Barsetshire novels as part of a single world?); roman fleuve; religion and the clergy; marriage; travel
 
 + Trollope, *An Autobiography*
 + E. S. Dallas review of *Barchester Towers*
@@ -129,15 +117,14 @@ religion and the clergy; marriage; travel
 + Ramsay, from *Reading Machines*
 + Mary Poovey on the Barsetshire series
 + [P.J. Trainor](http://trainorpj.github.io/) and the [Fall 2016 Victorian Seminar's](vic-sem-2016.github.io) [Barsetshire without borders visualization](http://trainorpj.github.io/barsetshire-series/)
-+ workshop: not reading The Chronicles of Barsetshire (inspired by Paul
-Fyfe’s  How To Not Read a Victorian Novel)
++ in-class workshop: not reading The Chronicles of Barsetshire (inspired by Paul Fyfe’s  How To Not Read a Victorian Novel)
 + complete before class: brief post about version control
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### February 13: narrative and novelists' note-taking
 some topics: bildungsroman, Dickens’s life and work, Victorian
@@ -152,60 +139,47 @@ magazine All the Year Round volumes
 + selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
 + selections from Harry Stone ed., *Dickens’s Working Notes for His
 Novels*
-+ ? Simon Reader, [“Victorian Notebooks: Source and
-Method”](https://www.academia.edu/5011463/
-Victorian_Notebooks_Source_and_Method)
++ Simon Reader, [“Victorian Notebooks: Source and
+Method”](https://www.academia.edu/5011463/)
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
-Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-
-ElsonDamesMcKeown.pdf)
+Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + complete before class: install Zotero
-+ complete before class: brief post about citation
-management
++ complete before class: brief post about citation management
 + in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
 aggregating, sharing
 
-
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### February 20: reference
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
-+ Skype visit from  Gibson, director of the [Dickens Notes
-Project]([Dickens Working Notes Project](http://dickensnotes.com/) and
-the [Versioning Machine](http://v-machine.org/samples.php)
-+ OMF critical reading 1
-+ OMF critical reading 2
-+ text analysis reading from A New Companion to Digital Humanities
-+ workshop: Novel into Notes - indexing *Our Mutual Friend*
-+ in-class workshop: breaking down an article using NVol
-discussion and outline: ; close reading: ; criticism summary: ; seminar
-paper: ; break:
-+ complete before class: brief post to our Known about note-taking
++ discuss the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/)
++ Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
++ in-class workshop: Novel into Notes - indexing *Our Mutual Friend*
++ complete before class: brief post about note-taking
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### February 27: corpus
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, third third
-+ OMF critical reading 1
++ Sarah Winter, "Learning by Heart in Our Mutual Friend"
 + OMF critical reading 2
-+ Algee-Hewitt and Piper, "The Werther Effect"
++ OMF critical reading 3
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
 + before class: post to Known about indexing *Our Mutual Friend*
-+ data viz discussion with PJ: follow up
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
-
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### March 6: indexing
 some topics: indexing, cataloging, classifying,  social problem novel,
@@ -213,7 +187,7 @@ prison, asylum, investigative journalism; index, database vs [personal
 knowledge base](http://en.wikipedia.org/wiki/Personal_knowledge_base);
 Charles Reade’s open research notebook; returning to canon questions
 
-+ Charles Reade, *Hard Cash*, first half OR Oliphant
++ Charles Reade, *Hard Cash*, first half
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
 + Mary Poovey, “Forgotten Writers, Neglected Histories”
@@ -221,19 +195,18 @@ Know*
 + Michel Foucault, “Classifying,” from The Order of Things
 + Ronald Day, from *Indexing It All*
 + Charles Reade’s notecards
-+ look at some literature indexes: Pickwick, In Memoriam, etc
++ look at some literature indexes: *Pickwick*, *In Memoriam*, etc
 + description of fictional novelist-researcher Rolfe from *A Terrible
 Temptation*
-+ in-class workshop preparation: open notebooks
++ in-class workshop: open notebooks
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### March 13: spring break
-
 
 #### March 20: the preparation of the novel
 some topics: encyclopedia,
@@ -241,8 +214,7 @@ some topics: encyclopedia,
 + Flaubert, selections from Bouvard et Pécuchet, The Dictionary of
 Received Ideas
 + Explore http://flaubert.univ-rouen.fr/bouvard_et_pecuchet/ and
-http://gallica.bnf.fr/to
-nb: You will find you need surprisingly little (or no) French to learn
+http://gallica.bnf.fr/to . NB:You will find you need surprisingly little (or no) French to learn
 something about Flaubert’s research practices from his digitized notes
 and manuscript pages, but give yourself time.
 + return to Roland Barthes, “The Reality Effect”
@@ -250,18 +222,18 @@ and manuscript pages, but give yourself time.
 + Stanford Lit Lab Pamphlet 11
 + question: canon, archive, corpus: how do we think about all the
 novels?
-+ background: recovery projects and Guillory; Sutherland and
-encylopedias; library catalogs
++ background: recovery projects and Guillory; Sutherland and encylopedias; library catalogs
 + final paper plan due to dropbox
-+ in class workshop: data viz discussion with PJ: visualizing a corpus
-(novels or criticism)
++ Python corpus exercise and brief post
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
+### March ??, optional but recommended telegraph workshop
+TBA
 
 #### March 27: search and research
 some topics: sensation novel, gender and sexuality
@@ -271,25 +243,19 @@ some topics: sensation novel, gender and sexuality
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
 Twenty Years Ago”*
 + Daniel Rosenberg, “Stop, Words”*
-+ Lisa Rhody, poetics of topic modeling short DH2014 paper
++ Lisa Rhody, poetics of topic modeling paper
 + Patrick Leary, (“Googling the
 Victorians”)[http://www.victorianresearch.org/googling.pdf]
-+ Darnton, “Literary Surveillance in the British Raj”
-+ before class: post to Known about telegraphy
 + take a look at [Word Frequencies in English-Language Literature,
 1700-1922](https://sharc.hathitrust.org/genre)
 + in-class workshop: topic modeling a large corpus
-+ post- workshop discussion: telegraphy and critical making
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
-
-March ??, 2-4 pm, ?? optional but recommended telegraph workshop with
-Andrew Ruether, McCabe Computer Classroom, 1-4 pm or Media Center
 
 #### April 3:  paper workshop
 
@@ -297,7 +263,7 @@ Andrew Ruether, McCabe Computer Classroom, 1-4 pm or Media Center
 + George Eliot, *Adam Bede*, first half
 + in-class workshop
 
-break:
++ break:
 
 #### April 10: noticing everyday life
 some topics:
@@ -311,29 +277,29 @@ Rerum, etc)
 + Introduction to “Denotative, Technically, Literally” special issue,
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
-+ Sarah Allison,
++ Sarah Allison, TBA
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
-
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 April 12, 2017: [talk?](http://p19.github.io/)(optional)
 
-#### April 17:some topics
+#### April 17
+some topics:
 
 + George Eliot, *Middlemarch*, first half
 + Leah Price, from *The Anthology and the Rise of the Novel* *
-+ David Kurnick, “An Erotics of Detachment" OR *Empty Houses* Intro + *Middlemarch* chapter
++ David Kurnick, “An Erotics of Detachment"
 + selections from GE notebooks
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 #### April 24: social totalities and literary values
 some topics:
@@ -341,23 +307,23 @@ some topics:
 + *Middlemarch*, second half
 + examine [Quarry for
 Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
-+ may be replaced - Amy Levy, “The Recent Telepathic Occurrence at the
-British Museum” and “Readers
-at the British Museum”
-+ Susan David Bernstein, “Researching Romola” from *Roomscapes* *
-+ mind maps, concept maps, etc
++ Middlemarch reading TBD
++ Middlemarch reading TBD
++ Middlemarch reading TBD
 
-discussion and outline:
-close reading:
-criticism summary:
-seminar paper:
-break:
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
-#### April 25: optional but recommended paper-drafting open lab, LPAC
-201, 1-4 pm
+#### May 1: to be discussed
 
-#### May 1: the research effect?
-
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
 
 ***
 
@@ -372,7 +338,7 @@ break:
 ###Assignments
 
 #### Outline and discussion facilitation
-Four times during semester you will be responsible – in pairs - for
+Twice during semester you will be responsible – in pairs - for
 facilitating discussion of the week’s material, including (but not at
 all limited to) all readings, seminar papers, close readings, critical
 summaries, and research exercises. Please plan to read the week’s
@@ -394,7 +360,7 @@ criticism summaries) a public document, which we will likely share in
 some form. We will format all outlines in Markdown and use Pandoc to convert
 them into PDF for to print for reference during seminar.
 
-#### Seminar papers (Signature)
+#### Seminar papers
 You will write two  1500-2500 word (3-4 page single-spaced) seminar papers over the
 course of the semester; they are due to our seminar Dropbox (more on
 which in class) by midnight the Sunday before seminar.  The seminar
@@ -405,14 +371,14 @@ encourage you to bring in outside reading that seems relevant (though
 make sure that you do this in a way that is attentive to the fact that
 the rest of us will likely not have read your additional text(s)).
 
-#### Close readings (Technical)
+#### Close readings
 You will write three 1-2-page single-spaced close readings of a few
 sentences or a paragraph of one of our fictional texts over the course
 of the semester; they are due to our seminar Dropbox (more on which in
 class) by midnight the Sunday before seminar.  See handout on “close
 reading the novel” for guidance if you like.
 
-#### Criticism summaries (Technical)
+#### Criticism summaries
 You will write three 1-2 page (single-spaced) summaries of critical
 readings; like the seminar papers and close readings, they are due as
 Word attachments to our seminar Dropbox (more on which in class) by
@@ -438,9 +404,8 @@ Our seminar's public site will feature at minimum our seminar's syllabus and our
 discussion outlines. Together we will think about any additional elements of our
 work we may want to make public.
 
-#### Labs and open workshops
-Occasionally we will open our class to interested outside parties. Feel free to invite friends, family, teammates, lab
-mates, housecats, that guy who is always hanging out in the periodicals reading room. More on this in class.
+#### Open classes
+Occasionally if we like we will open our class to interested outside parties. Feel free to invite friends, family, teammates, labmates, housecats, that guy who is always hanging out in the periodicals reading room. More on this in class.
 
 #### Tools
 To start exploring and thinking about your individual and collective
@@ -449,7 +414,7 @@ note-taking, we will experiment with a range of technologies. Our goal is to bot
 digital tools to do humanities work and to use our finely-honed
 humanities tools to both *critique* and *use* digital technologies.
 
-#### Long/Senior Honors Study paper (Show-stopper)
+#### Long/Senior Honors Study paper
 I want us to think about the long paper as a piece that draws together
 some of the various shorter writing pieces, research skills, and
 projects you will work on over the course of the semester. The long
@@ -476,7 +441,7 @@ with one another, and be creative! If this will be a financial hardship,
 please consult me.
 
 #### Reading and note-taking, technology
-We wil use various technologies we will use to facilitate various forms
+We will use various technologies we will use to facilitate various forms
 of individual and collective note-taking, writing, archiving, and
 computational text analysis. In addition, we will use laptops
 intentionally and strategically during some parts of class but not
@@ -486,10 +451,7 @@ like this in class. (If you do not own a laptop, no worries; we can work
 around this, but do let me know.)
 
 #### Extra meetings and other specific seminar-related times
-In addition to our regular Monday afternoon meetings, we will take one
-or two trips to a special collections library. We will discuss the
-scheduling of these in class. In addition, please reserve Wednesday at
-10 am to meet with me during the weeks you are in charge of discussion
+Please reserve Tuesday  at 11 am to meet with me during the weeks you are in charge of discussion
 and outline.
 
 *This double-credit Honors seminar is a major commitment, and
@@ -516,7 +478,7 @@ Mary Elizabeth Braddon, Lady Audley’s Secret. Oxford World’s Classics.
 George Eliot, Adam Bede. Oxford. ISBN-10: 0199203474
 George Eliot, Middlemarch. Penguin ISBN-13: 978-0141439549
 
-The books are available at the bookstore (or will be soon). You are also
+The books are available at the bookstore. You are also
 welcome to buy the books online or at a different store. Be aware that
 you need to have your own copy of the specific edition of each of the
 books listed above. All other texts will be available on Dropbox unless
@@ -588,7 +550,7 @@ the work of being in class, please take measures to prevent such
 self-distraction. (I'v used [StayFocused](http://www.stayfocusd.com); you
 may like other programs or strategies.)
 
-#### Acknowledgements [UPDATE]
+#### Acknowledgements
 Here is a partial, in-progress list of writing I drew on to create this
 syllabus, including Nathan Hensley’s [Victorian Literature and
 Globalization](https://blogs.commons.georgetown.edu/engl-161-spring2013/
