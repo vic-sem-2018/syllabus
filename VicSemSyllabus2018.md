@@ -64,7 +64,7 @@ to help us analyze individual novels and groups of novels.
 #### January 23: introduction
 some topics: canon and archive; roman fleuve; Trollope biography;
 mid-Victorian publishing, politics, religion; liberals and
-conservatives;
+conservatives
 
 + Anthony Trollope, *The Warden*
 + Anthony Trollope, *Barchester Towers*
@@ -100,11 +100,11 @@ tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 + in class workshop: close reading criticism
 + in class workshop: concepts of version control (git, Github) and Prose.io
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline:Tristan, Ana
++ close reading: Rebecca
++ criticism summary:Katie (Lukacs), Emma (Barthes), Ana (Jameson)
++ seminar paper:Leila
++ break:Emma
 
 #### February 6: canonical realisms 2
 some topics: serials and series (what happens when we try to imagine all
@@ -120,11 +120,11 @@ six Barsetshire novels as part of a single world?); roman fleuve; religion and t
 + in-class workshop: not reading The Chronicles of Barsetshire (inspired by Paul Fyfe’s  How To Not Read a Victorian Novel)
 + complete before class: brief post about version control
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Emma
++ close reading: Aly, Tristan, Amy
++ criticism summary: Art (Miller), Katie (Poovey)
++ seminar paper: Willa, Ana
++ break: Art
 
 #### February 13: narrative and novelists' note-taking
 some topics: bildungsroman, Dickens’s life and work, Victorian
@@ -148,24 +148,26 @@ Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
 aggregating, sharing
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Willa, Leila
++ close reading: Ana, Aly
++ criticism summary: Rebecca (Bakhtin), Amy (Reader), Tristan (Cohn)
++ seminar paper:Katie, Emma
++ break: Art, Aly
 
 #### February 20: reference
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
 + discuss the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/)
 + Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
++ TBA
++ TBA
 + in-class workshop: Novel into Notes - indexing *Our Mutual Friend*
 + complete before class: brief post about note-taking
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Aly
++ close reading: Emma, Rebecca, Leila, Aly
++ criticism summary: Amy (Hack), Katie, Willa
++ seminar paper: Leila, Art
++ break: Katie, Tristan
 
 #### February 27: corpus
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, third third
@@ -175,11 +177,11 @@ aggregating, sharing
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
 + before class: post to Known about indexing *Our Mutual Friend*
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Amy, Emma
++ close reading: Tristan, Art, Leila
++ criticism summary: Ana (Winter), Aly (OMF reading 2), Rebecca 9 (OMF reading 3)
++ seminar paper: Willa, Rebecca
++ break: Ana
 
 #### March 6: indexing
 some topics: indexing, cataloging, classifying,  social problem novel,
@@ -200,9 +202,9 @@ Know*
 Temptation*
 + in-class workshop: open notebooks
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Katie
++ close reading: Leila, Katie, Willa
++ criticism summary: Art (Poovey), Amy (Blair), Willa (Foucault)
 + seminar paper:
 + break:
 
@@ -226,11 +228,11 @@ novels?
 + final paper plan due to dropbox
 + Python corpus exercise and brief post
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Aly, Rebecca
++ close reading: Willa, Ana
++ criticism summary: Tristan (Preparation), Leila (Lit Lab), Aly (return to "Reality Effect")
++ seminar paper: Amy, Art, Emma
++ break: Rebecca, Emma
 
 ### March ??, optional but recommended telegraph workshop
 TBA
@@ -250,11 +252,11 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 1700-1922](https://sharc.hathitrust.org/genre)
 + in-class workshop: topic modeling a large corpus
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Leila, Katie
++ close reading: Art, Amy, Emma, Tristan
++ criticism summary: Aly (Underwood), Ana (Rosenberg or Leary)
++ seminar paper: Katie, Rebecca, Aly
++ break: Tristan, Ana
 
 
 #### April 3:  paper workshop
@@ -263,10 +265,10 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + George Eliot, *Adam Bede*, first half
 + in-class workshop
 
-+ break:
++ break: Rebecca
 
 #### April 10: noticing everyday life
-some topics:
+some topics
 
 + George Eliot, *Adam Bede*, second half
 + George Eliot, “The Natural History of German Life”
@@ -279,11 +281,11 @@ ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
 + Sarah Allison, TBA
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Ana, Tristan
++ close reading: Katie, Leila, ARt
++ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison)
 + seminar paper:
-+ break:
++ break: Leila
 
 April 12, 2017: [talk?](http://p19.github.io/)(optional)
 
@@ -295,11 +297,11 @@ some topics:
 + David Kurnick, “An Erotics of Detachment"
 + selections from GE notebooks
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Art, Amy
++ close reading: Amy, Emma, Ana
++ criticism summary: Leila, Willa, Art
++ seminar paper: Tristan
++ break: Rachel
 
 #### April 24: social totalities and literary values
 some topics:
@@ -311,10 +313,10 @@ Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 + Middlemarch reading TBD
 + Middlemarch reading TBD
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
++ discussion and outline: Art, Rebecca
++ close reading: Katie, Rebecca, Willa
++ criticism summary: Tristan, Emma, Leila
++ seminar paper: Ana, Amy
 + break:
 
 #### May 1: to be discussed
@@ -331,11 +333,11 @@ Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 
 *April ??th SHS papers due*
 
-####final meeting and seminar dinner
+#### final meeting and seminar dinner
 
 #### May 20-22 honors
 
-###Assignments
+### Assignments
 
 #### Outline and discussion facilitation
 Twice during semester you will be responsible – in pairs - for
@@ -344,7 +346,7 @@ all limited to) all readings, seminar papers, close readings, critical
 summaries, and research exercises. Please plan to read the week’s
 materials, come up with a draft of the outline (in informal consultation
 with other seminar members if you like), and post your draft outline by
-Monday at 5 pm to our outline site (more on which in class).  On by
+Monday at 7 pm to our outline site (more on which in class).  On by
 Monday evening, the rest of the seminar members will access the outline
 and may add their own suggestions. Then on Tuesday at 11 am the
 discussion leaders will meet with me briefly in order strategize and
@@ -363,7 +365,7 @@ them into PDF for to print for reference during seminar.
 #### Seminar papers
 You will write two  1500-2500 word (3-4 page single-spaced) seminar papers over the
 course of the semester; they are due to our seminar Dropbox (more on
-which in class) by midnight the Sunday before seminar.  The seminar
+which in class) by 7 pm the Sunday before seminar.  The seminar
 paper should usually (although this is a guideline not a requirement)
 engage with at least one novel – making sure to include at least some
 close reading of the novel - and one piece of criticism. I also
@@ -375,14 +377,14 @@ the rest of us will likely not have read your additional text(s)).
 You will write three 1-2-page single-spaced close readings of a few
 sentences or a paragraph of one of our fictional texts over the course
 of the semester; they are due to our seminar Dropbox (more on which in
-class) by midnight the Sunday before seminar.  See handout on “close
+class) by 7 pm the Sunday before seminar.  See handout on “close
 reading the novel” for guidance if you like.
 
 #### Criticism summaries
 You will write three 1-2 page (single-spaced) summaries of critical
 readings; like the seminar papers and close readings, they are due as
 Word attachments to our seminar Dropbox (more on which in class) by
-midnight the Sunday before seminar. These should usually include a brief
+7 pm the Sunday before seminar. These should usually include a brief
 paragraph on the main claim and stakes of the reading, a more detailed
 overview of the argument, a note if relevant on the writer’s style,
 feeling, and tone, and particular mention (with page numbers) of
@@ -461,7 +463,7 @@ space we need to do a good job while also fulfilling our other semester
 commitments and attempting to be relatively happy people (or as happy as
 we’re disposed to be).*
 
-###Policies and Advice
+### Policies and Advice
 
 #### Books
 The main books you will need to buy are:
