@@ -100,7 +100,7 @@ tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 + in class workshop: close reading criticism
 + in class workshop: concepts of version control (git, Github) and Prose.io
 
-+ discussion and outline:Tristan, Ana
++ discussion and outline: Tristan, Ana
 + close reading: Rebecca
 + criticism summary:Katie (Lukacs), Emma (Barthes), Ana (Jameson)
 + seminar paper:Leila
@@ -131,20 +131,14 @@ some topics: bildungsroman, Dickens’s life and work, Victorian
 childhoods, literacy, education, emigration
 
 + Charles Dickens, *Our Mutual Friend*  (1864-5), first third
-+ Mikhail Bakhtin, from "Discourse in the Novel," 259-331
 + Dorrit Cohn, summary handout and selection from *Transparent Minds*
-+ [Dickens Journals Online](http://www.djo.org.uk/) essays on Dickens's
-magazine All the Year Round volumes
 + selections from Sylvère Monod’s *Charles Dickens, Novelist* (1953)
 + selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
 + selections from Harry Stone ed., *Dickens’s Working Notes for His
 Novels*
-+ Simon Reader, [“Victorian Notebooks: Source and
-Method”](https://www.academia.edu/5011463/)
++ Simon Reader, “Victorian Notebooks: Source and Method”
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
 Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
-+ complete before class: install Zotero
-+ complete before class: brief post about citation management
 + in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
 aggregating, sharing
 
@@ -158,7 +152,7 @@ aggregating, sharing
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
 + discuss the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/)
 + Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
-+ TBA
++ Mikhail Bakhtin, from "Discourse in the Novel," 259-331
 + TBA
 + in-class workshop: Novel into Notes - indexing *Our Mutual Friend*
 + complete before class: brief post about note-taking
@@ -205,7 +199,7 @@ Temptation*
 + discussion and outline: Katie
 + close reading: Leila, Katie, Willa
 + criticism summary: Art (Poovey), Amy (Blair), Willa (Foucault)
-+ seminar paper:
++ seminar paper: Tristan
 + break:
 
 #### March 13: spring break
