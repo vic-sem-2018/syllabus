@@ -136,7 +136,7 @@ childhoods, literacy, education, emigration
 + selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
 + selections from Harry Stone ed., *Dickens’s Working Notes for His
 Novels*
-+ Simon Reader, “Victorian Notebooks: Source and Method”
++ Simon Reader, “Victorian Notebooks: Source and Today, in our schools, the manual trades are given little honor. The egalitarian worry that has always attended tracking students into “college prep” and “vocational ed” is overlaid with another: the fear that acquiring a specific skill set means that one’s life is determined. In college, by contrast, many students don’t learn anything of particular application; college is the ticket to an open future. Craftsmanship entails learning to do one thing really well, while the ideal of the new economy is to be able to learn new things, celebrating potential rather than achievement. Somehow, every worker in the cutting-edge workplace is now supposed to act like an “intrapreneur,” that is, to be actively involved in the continuous redefinition of his own job. Shop class presents an image of stasis that runs directly counter to what Richard Sennett identifies as “a key element in the new economy’s idealized self: the capacity to surrender, to give up possession of an established reality.” This stance toward “established reality,” which can only be called psychedelic, is best not indulged around a table saw. It is dissatisfied with what Arendt calls the “reality and reliability” of the world. It is a strange sort of ideal, attractive only to a peculiar sort of self — gratuitous ontological insecurity is no fun for most people.Method”
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
 Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
@@ -150,16 +150,15 @@ aggregating, sharing
 
 #### February 20: reference
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
-+ discuss the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/)
-+ Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
 + Mikhail Bakhtin, from "Discourse in the Novel," 259-331
-+ TBA
-+ in-class workshop: Novel into Notes - indexing *Our Mutual Friend*
-+ complete before class: brief post about note-taking
++ Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
++ Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) and
++ take a look at the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/), paying particular attention to the Our Mutual Friend MS History(http://dickensnotes.com/omfmshistory/)
++ using the OMF Notes images (higher-quality facsimiles of the OMF notes) which you will now find in Dropbox, choose a chapter from the middle third of the novel and compare notes to chapter
 
 + discussion and outline: Aly
 + close reading: Emma, Rebecca, Leila, Aly
-+ criticism summary: Amy (Hack), Katie, Willa
++ criticism summary: Amy (Hack), Willa
 + seminar paper: Leila, Art
 + break: Katie, Tristan
 
@@ -200,7 +199,7 @@ Temptation*
 + close reading: Leila, Katie, Willa
 + criticism summary: Art (Poovey), Amy (Blair), Willa (Foucault)
 + seminar paper: Tristan
-+ break:
++ break: Willa
 
 #### March 13: spring break
 
@@ -259,7 +258,7 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + George Eliot, *Adam Bede*, first half
 + in-class workshop
 
-+ break: Rebecca
++ break: Rebecca, Willa
 
 #### April 10: noticing everyday life
 some topics
@@ -277,7 +276,7 @@ ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 
 + discussion and outline: Ana, Tristan
 + close reading: Katie, Leila, ARt
-+ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison)
++ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison), Katie (to be decided)
 + seminar paper:
 + break: Leila
 
