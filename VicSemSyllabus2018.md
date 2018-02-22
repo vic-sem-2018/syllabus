@@ -202,6 +202,8 @@ Temptation*
 + seminar paper: Tristan
 + break: Willa
 
+#### March 7: SHS paper plans due
+
 #### March 13: spring break
 
 #### March 20: the preparation of the novel
@@ -228,9 +230,6 @@ novels?
 + seminar paper: Amy, Art, Emma
 + break: Rebecca, Emma
 
-### March ??, optional but recommended telegraph workshop
-TBA
-
 #### March 27: search and research
 some topics: sensation novel, gender and sexuality
 
@@ -252,10 +251,10 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + seminar paper: Katie, Rebecca, Aly
 + break: Tristan, Ana
 
+#### March 30: SHS paper rough draft due
 
-#### April 3:  paper workshop
+#### April 3: SHS paper workshop
 
-+ final paper draft due for workshop
 + George Eliot, *Adam Bede*, first half
 + in-class workshop
 
@@ -296,6 +295,8 @@ some topics:
 + criticism summary: Leila, Willa, Art
 + seminar paper: Tristan
 + break: Rachel
+
+#### April 23: SHS papers due
 
 #### April 24: social totalities and literary values
 some topics:
