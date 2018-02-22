@@ -164,12 +164,13 @@ aggregating, sharing
 
 #### February 27: corpus
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, third third
++ [E.S. Dallas review of OMF](https://omf.ucsc.edu/publication/reviews/es-dallas.html)
++ Karl Marx on commodity fetishism
 + Sarah Winter, "Learning by Heart in Our Mutual Friend"
-+ OMF critical reading 2
-+ OMF critical reading 3
++ Malcolm Andrews, Charles Dickens and His Performing Selves, ch 6
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
-+ before class: post to Known about indexing *Our Mutual Friend*
-
++ bring back Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/)
++ optional:OMF chapter from Michael Slater's Dickens bio
 + discussion and outline: Amy, Emma
 + close reading: Tristan, Art, Leila
 + criticism summary: Ana (Winter), Aly (OMF reading 2), Rebecca 9 (OMF reading 3)
