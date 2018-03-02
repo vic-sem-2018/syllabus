@@ -183,18 +183,13 @@ prison, asylum, investigative journalism; index, database vs [personal
 knowledge base](http://en.wikipedia.org/wiki/Personal_knowledge_base);
 Charles Reade’s open research notebook; returning to canon questions
 
-+ Charles Reade, *Hard Cash*, first half
++ Charles Reade, *Hard Cash*, first half (definitely through volume 1; recommend through volume 2, chapter xiv/14)
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
 + Mary Poovey, “Forgotten Writers, Neglected Histories”
-+ Henry Wheatley, from What is an Index?
-+ Michel Foucault, “Classifying,” from The Order of Things
-+ Ronald Day, from *Indexing It All*
-+ Charles Reade’s notecards
-+ look at some literature indexes: *Pickwick*, *In Memoriam*, etc
++ Henry Wheatley, from What is an Index? (skim)
 + description of fictional novelist-researcher Rolfe from *A Terrible
 Temptation*
-+ in-class workshop: open notebooks
 
 + discussion and outline: Katie
 + close reading: Leila, Katie, Willa
@@ -204,9 +199,27 @@ Temptation*
 
 #### March 7: SHS paper plans due
 
+#### March 8 + 9: SHS paper conferences
+
 #### March 13: spring break
 
-#### March 20: the preparation of the novel
+#### March 20:
+Some topics:
+
++ Charles Reade, *Hard Cash*, to end (all three volumes)
++ bring back last week's reading
++ Ronald Day, from *Indexing It All*
++ Michel Foucault, “Classifying,” from The Order of Things
++ Charles Reade’s notecards
++ look at some literature indexes: *Pickwick*, *In Memoriam*, etc
+
++ discussion and outline:
++ close reading:
++ criticism summary:
++ seminar paper:
++ break:
+
+#### March 27: the preparation of the novel
 some topics: encyclopedia,
 
 + Flaubert, selections from Bouvard et Pécuchet, The Dictionary of
@@ -230,7 +243,36 @@ novels?
 + seminar paper: Amy, Art, Emma
 + break: Rebecca, Emma
 
-#### March 27: search and research
+#### March 30: SHS paper rough draft due
+
+#### April 3: SHS paper workshop
+
++ George Eliot, *Adam Bede*, first half
++ in-class workshop
+
++ break: Rebecca, Willa
+
+#### April 10: reference and everyday life
++ George Eliot, *Adam Bede*, second half
++ George Eliot, “The Natural History of German Life”
++ Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index
+Rerum, etc)
++ Daniel Hack, *Transatlantic Eliot: African American Connections," in
+*The Blackwell Companion to George Eliot* (2013)
++ Introduction to “Denotative, Technically, Literally” special issue,
+ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
+2014)
++ Sarah Allison, TBA
+
++ discussion and outline: Ana, Tristan
++ close reading: Katie, Leila, Art
++ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison), Katie (to be decided)
++ seminar paper:
++ break: Leila
+
+#### April 12, 2017: [Sarah Allison talk](http://p19.github.io/)(optional)
+
+#### April 17: search and research
 some topics: sensation novel, gender and sexuality
 
 + Mary Elizabeth Braddon, *Lady Audley's Secret*
@@ -251,38 +293,9 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + seminar paper: Katie, Rebecca, Aly
 + break: Tristan, Ana
 
-#### March 30: SHS paper rough draft due
+#### April 23: SHS papers due
 
-#### April 3: SHS paper workshop
-
-+ George Eliot, *Adam Bede*, first half
-+ in-class workshop
-
-+ break: Rebecca, Willa
-
-#### April 10: noticing everyday life
-some topics
-
-+ George Eliot, *Adam Bede*, second half
-+ George Eliot, “The Natural History of German Life”
-+ Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index
-Rerum, etc)
-+ Daniel Hack, *Transatlantic Eliot: African American Connections," in
-*The Blackwell Companion to George Eliot* (2013)
-+ Introduction to “Denotative, Technically, Literally” special issue,
-ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
-2014)
-+ Sarah Allison, TBA
-
-+ discussion and outline: Ana, Tristan
-+ close reading: Katie, Leila, ARt
-+ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison), Katie (to be decided)
-+ seminar paper:
-+ break: Leila
-
-April 12, 2017: [talk?](http://p19.github.io/)(optional)
-
-#### April 17
+#### April 24: social totalities and literary values
 some topics:
 
 + George Eliot, *Middlemarch*, first half
@@ -296,10 +309,7 @@ some topics:
 + seminar paper: Tristan
 + break: Rachel
 
-#### April 23: SHS papers due
-
-#### April 24: social totalities and literary values
-some topics:
+#### May 1:
 
 + *Middlemarch*, second half
 + examine [Quarry for
@@ -312,14 +322,6 @@ Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 + close reading: Katie, Rebecca, Willa
 + criticism summary: Tristan, Emma, Leila
 + seminar paper: Ana, Amy
-+ break:
-
-#### May 1: to be discussed
-
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
 + break:
 
 ***
