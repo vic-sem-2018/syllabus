@@ -1,5 +1,7 @@
 #  English 111: Victorian Novel Research Seminar
-- - -
+
+---
+
 + semester: Spring 2018
 + class meeting time: T 1-5 (occasionally ending at 4:30)
 + outline finalizing time: T 11-11:30
@@ -9,7 +11,8 @@
 + office: LPAC 302 (English Department) + Parrish W201 (Aydelotte Foundation)
 + office hours: W 1-3  in Parrish W201 and by appointment
 + seminar outline meetings: T 10:30-11:30
-- - -
+
+---
 
 > Replacing “How something is made, with a view to finding out what it is”
 with “How something is made, with a view to making it again” – the
@@ -193,7 +196,7 @@ Temptation*
 
 + discussion and outline: Katie
 + close reading: Leila, Katie, Willa
-+ criticism summary: Art (Poovey), Amy (Blair), Willa (Foucault)
++ criticism summary: Art (Poovey)
 + seminar paper: Tristan
 + break: Willa
 
@@ -210,13 +213,13 @@ Some topics:
 + bring back last week's reading
 + Ronald Day, from *Indexing It All*
 + Michel Foucault, “Classifying,” from The Order of Things
-+ Charles Reade’s notecards
-+ look at some literature indexes: *Pickwick*, *In Memoriam*, etc
++ Charles Bankson, edition of Charles Reade’s notecards
++ bring back: Simon Reader, “Victorian Notebooks: Source and Method”
 
-+ discussion and outline:
++ discussion and outline: Willa
 + close reading:
-+ criticism summary:
-+ seminar paper:
++ criticism summary: Emma
++ seminar paper: Emma
 + break:
 
 #### March 27: the preparation of the novel
