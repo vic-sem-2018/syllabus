@@ -223,7 +223,7 @@ Some topics:
 + break:
 
 #### March 27: the preparation of the novel
-some topics: encyclopedia,
+some topics:
 
 + Flaubert, selections from Bouvard et Pécuchet, The Dictionary of
 Received Ideas
@@ -236,9 +236,6 @@ and manuscript pages, but give yourself time.
 + Stanford Lit Lab Pamphlet 11
 + question: canon, archive, corpus: how do we think about all the
 novels?
-+ background: recovery projects and Guillory; Sutherland and encylopedias; library catalogs
-+ final paper plan due to dropbox
-+ Python corpus exercise and brief post
 
 + discussion and outline: Aly, Rebecca
 + close reading: Willa, Ana
