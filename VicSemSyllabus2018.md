@@ -240,7 +240,7 @@ novels?
 + discussion and outline: Aly, Rebecca
 + close reading: Willa, Ana
 + criticism summary: Tristan (Preparation), Leila (Lit Lab), Aly (return to "Reality Effect")
-+ seminar paper: Amy, Art, Emma
++ seminar paper: Amy, Art
 + break: Rebecca, Emma
 
 #### March 30: SHS paper rough draft due
@@ -257,17 +257,16 @@ novels?
 + George Eliot, “The Natural History of German Life”
 + Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index
 Rerum, etc)
-+ Daniel Hack, *Transatlantic Eliot: African American Connections," in
-*The Blackwell Companion to George Eliot* (2013)
++ Sarah Allison, "George Eliot's Discerning Syntax"
 + Introduction to “Denotative, Technically, Literally” special issue,
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
-+ Sarah Allison, TBA
++ Sarah Allison, April 12
 
 + discussion and outline: Ana, Tristan
 + close reading: Katie, Leila, Art
-+ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison), Katie (to be decided)
-+ seminar paper:
++ criticism summary: Willa (Freedgood and Schmitt), Rebecca (Allison), Katie ("Natural History")
++ seminar paper: Ana
 + break: Leila
 
 #### April 12, 2017: [Sarah Allison talk](http://p19.github.io/)(optional)
@@ -290,7 +289,7 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + discussion and outline: Leila, Katie
 + close reading: Art, Amy, Emma, Tristan
 + criticism summary: Aly (Underwood), Ana (Rosenberg or Leary)
-+ seminar paper: Katie, Rebecca, Aly
++ seminar paper: Katie, Rebecca
 + break: Tristan, Ana
 
 #### April 23: SHS papers due
@@ -306,7 +305,7 @@ some topics:
 + discussion and outline: Art, Amy
 + close reading: Amy, Emma, Ana
 + criticism summary: Leila, Willa, Art
-+ seminar paper: Tristan
++ seminar paper: Tristan, Aly
 + break: Rachel
 
 #### May 1:
@@ -321,7 +320,7 @@ Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 + discussion and outline: Art, Rebecca
 + close reading: Katie, Rebecca, Willa
 + criticism summary: Tristan, Emma, Leila
-+ seminar paper: Ana, Amy
++ seminar paper: Amy
 + break:
 
 ***
