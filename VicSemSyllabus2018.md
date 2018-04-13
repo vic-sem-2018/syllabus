@@ -261,7 +261,7 @@ Rerum, etc)
 + Introduction to “Denotative, Technically, Literally” special issue,
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
-+ Sarah Allison, April 12
++ Sarah Allison talk, April 12
 
 + discussion and outline: Ana, Tristan
 + close reading: Katie, Leila, Art
@@ -275,15 +275,11 @@ ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 some topics: sensation novel, gender and sexuality
 
 + Mary Elizabeth Braddon, *Lady Audley's Secret*
-+ article on gender and insanity in Lady Audley*
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
 Twenty Years Ago”*
 + Daniel Rosenberg, “Stop, Words”*
-+ Lisa Rhody, poetics of topic modeling paper
 + Patrick Leary, (“Googling the
 Victorians”)[http://www.victorianresearch.org/googling.pdf]
-+ take a look at [Word Frequencies in English-Language Literature,
-1700-1922](https://sharc.hathitrust.org/genre)
 + in-class workshop: topic modeling a large corpus
 
 + discussion and outline: Leila, Katie
